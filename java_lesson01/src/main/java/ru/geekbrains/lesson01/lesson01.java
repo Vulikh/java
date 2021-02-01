@@ -18,6 +18,7 @@ public class lesson01 {
         System.out.println(isLeap(1600));
         System.out.println(isLeap(2400));
         System.out.println(isLeap(1700));
+
     }
 
     /*
